@@ -17,7 +17,7 @@ const Skills = () => {
           including versions of Lorem Ipsum.
         </p>
       </div>
-      <div className="row">
+      <div className="row mx-0">
         <div className="col-12 col-md-2"></div>
         <div className="col-12 col-md-4 middle">
           <ul className="list-unstyled h5">

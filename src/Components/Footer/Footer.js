@@ -38,7 +38,7 @@ const Footer = () => {
           </a>
         </div>
       </div>
-      <div className="row">
+      <div className="row  mx-0">
         <p>Copyright &copy; Nader Mohammed</p>
       </div>
     </div>

@@ -1,3 +1,4 @@
+import Btn from "../../SharedUI/Btn/btn";
 const About = () => {
   return (
     <div className="row p-4 m-3">
@@ -16,6 +17,11 @@ const About = () => {
           more recently with desktop publishing software like Aldus PageMaker
           including versions of Lorem Ipsum.
         </p>
+        <div>
+          <a class="bg-dark btn btn-outline-light" href="#download">
+            Download Resume
+          </a>
+        </div>
       </div>
     </div>
   );
