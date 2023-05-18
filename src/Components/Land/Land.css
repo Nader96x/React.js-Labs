@@ -1,0 +1,19 @@
+.land{
+    background-image: url("../../../public//images/bg.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    margin-bottom: 2rem;
+}
